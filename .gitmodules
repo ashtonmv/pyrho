@@ -1,0 +1,3 @@
+[submodule "ONCVPSP-PBE-PDv0.4"]
+	path = ONCVPSP-PBE-PDv0.4
+	url = https://github.com/PseudoDojo/ONCVPSP-PBE-PDv0.4.git
