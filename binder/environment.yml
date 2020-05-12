@@ -1,0 +1,18 @@
+channels:
+- conda-forge
+dependencies:
+- python
+- matplotlib
+- numpy
+- scipy
+- scikit-image
+- monty
+- tabulate
+- pandas
+- jsonschema
+- ipython 
+- nbformat
+- seaborn
+- pip
+- pip:
+  - git+https://github.com/abinit/pseudo_dojo.git
