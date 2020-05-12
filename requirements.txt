@@ -2,4 +2,4 @@ matplotlib
 scikit-image
 numpy
 scipy
-pseudo-dojo
+git+https://github.com/abinit/pseudo_dojo
