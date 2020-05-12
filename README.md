@@ -37,3 +37,6 @@ Happy calculating!
 git clone https://github.com/ashtonmv/pyrho.git
 pip install -r pyrho/requirements.txt
 ```
+
+## testing with mybinder
+[Run the tutorial notebook on a remote docker instance here](https://mybinder.org/v2/gh/ashtonmv/pyrho/master)
