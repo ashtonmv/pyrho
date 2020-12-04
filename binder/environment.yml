@@ -13,6 +13,4 @@ dependencies:
 - ipython 
 - nbformat
 - seaborn
-- pip
-- pip:
-  - git+https://github.com/abinit/pseudo_dojo.git
+- pseudo_dojo
