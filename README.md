@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/pBuUepf.jpg" width=450>
+<img src="static/logo.png" width=450>
 </p>
 
 Pyrho is a real-space DFT code written in Python. It is *not* built to be super-fast or scalable-
